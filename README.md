@@ -8,8 +8,6 @@
 
 ---
 
-# 💫 About Me
-
 🔭 **Current Focus**
 - Strengthening Core Java basics  
 - Practicing small Java programs  
