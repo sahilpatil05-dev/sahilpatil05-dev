@@ -1,18 +1,84 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Strengthening Core Java concepts<br>Building small Java projects<br>Practicing object-oriented design<br><br>👯 I’m looking to collaborate on<br>Java backend projects<br>Beginner-friendly open source projects<br>Cybersecurity-related tools or research<br><br>🤝 I’m looking for help with<br>Advanced Data Structures & Algorithms<br>System Design basics<br>Writing production-level Java code<br><br>🌱 I’m currently learning<br>JUnit (Unit Testing)<br>DSA in Java<br>Maven<br>Secure coding practices<br><br>⚡ Fun fact<br>I started my tech journey with Cybersecurity before diving deep into Java development 🛡️<br>I enjoy breaking problems into logic before writing code 💡<br>
+<h1 align="center">Hi 👋, I'm Sahil Patil</h1>
+<h3 align="center">Java Backend Developer | Cybersecurity Enthusiast 🛡️</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sahil Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilpatil9008@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilpatil05-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahilpatil05-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil05-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Core+Java+Developer;Learning+JUnit+%26+DSA;Future+Cybersecurity+Engineer;Always+Building+%F0%9F%9A%80" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahilpatil05-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🔭 **Current Focus**
+- Strengthening Core Java fundamentals  
+- Building structured Java backend projects  
+- Writing clean & object-oriented code  
+
+👯 **Open to Collaborate On**
+- Java Backend Projects  
+- Beginner-friendly Open Source  
+- Cybersecurity tools & research  
+
+🤝 **Looking to Improve In**
+- Advanced Data Structures & Algorithms  
+- System Design fundamentals  
+- Writing production-level Java applications  
+
+🌱 **Currently Learning**
+- JUnit (Unit Testing)  
+- DSA in Java  
+- Maven  
+- Secure coding practices  
+
+⚡ **Fun Fact**
+- I started my journey with Cybersecurity before diving deep into Java 🛡️  
+- I believe strong logic > memorizing syntax 💡  
+
+---
+
+# 🛡️ Internship Experience
+✔ Cybersecurity Intern at **Cybersena Private Limited**  
+- Vulnerability assessment & analysis  
+- Network security fundamentals  
+- Hands-on real-world exposure  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sahilpatil9008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔐 Cybersecurity & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🛠️ IDE & Tools
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=sahilpatil05-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=sahilpatil05-dev&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil05-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=sahilpatil05-dev&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
