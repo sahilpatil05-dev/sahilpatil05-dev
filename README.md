@@ -3,7 +3,7 @@
 <h3 align="center">Java Learner | Exploring Backend Development & Cybersecurity 🛡️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java;Learning+JUnit+%26+DSA;Exploring+Cybersecurity;Building+Foundations+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java;JUnit+(Unit+Testing+Basics);Learning+DSA;Exploring+Cybersecurity;Building+Foundations+🚀" />
 </p>
 
 ---
@@ -23,7 +23,6 @@
 - Understanding real-world project structure  
 
 🌱 **Currently Learning**
-- JUnit (Unit Testing basics)  
 - DSA in Java  
 - Maven fundamentals  
 - Basics of secure coding  
